@@ -1,0 +1,39 @@
+[
+	{
+		"elementId": "rt_app_top_slider",
+		"contents": {
+			"area": {
+				"1": {
+					"url": "https://www.shinseibank.com/retail/swrap/",
+					"img": "https://www.shinseibank.com/assets/bnr/bnr670/bnr670_swrap_swrap.png",
+					"disc": "SBIラップ"
+				},
+				"2": {
+					"url": "https://www.shinseibank.com/campaign/remittance/",
+					"img": "https://www.shinseibank.com/assets/bnr/bnr670/bnr670_service_remittance.png",
+					"disc": "キャッシュプレゼント"
+				},
+				"3": {
+					"url": "https://www.shinseibank.com/lp/sbi_vc_teiki.html",
+					"img": "https://www.shinseibank.com/assets/bnr/bnr670/bnr670_cam_sbi_vc_teiki.png",
+					"disc": "VC Trade"
+				},
+				"4": {
+					"url": "https://www.shinseibank.com/service/newpd/spninsho.html",
+					"img": "https://www.shinseibank.com/assets/bnr/bnr670/bnr670_service_spninsho.png",
+					"disc": "VIP Access"
+				},
+				"5": {
+					"url": "https://www.shinseibank.com/campaign/2208sbi_opening/",
+					"img": "https://www.shinseibank.com/assets/bnr/bnr670/bnr670_cam_2208sbi_opening.png",
+					"disc": "提携記念CP"
+				},
+				"6": {
+					"url": "https://www.shinseibank.com/campaign/2208special_ytd/",
+					"img": "https://www.shinseibank.com/assets/bnr/bnr670/bnr670_cam_2208special_ytd.png",
+					"disc": "円定期"
+				}
+			}
+		}
+	}
+]
